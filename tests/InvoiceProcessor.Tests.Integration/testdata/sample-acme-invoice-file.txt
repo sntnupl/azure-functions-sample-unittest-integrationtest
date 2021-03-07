@@ -1,0 +1,21 @@
+﻿===================================================================
+
+{
+    "OrderNumber": "One",
+    "OrderDate": "23/01/2021",
+    "CustomerName": "John Doe",
+    "DeliveryAddress": "Bangalore, KA, India",
+    "OrderTotal": 1223.50
+}
+
+===================================================================
+
+{
+    "OrderNumber": "Two",
+    "OrderDate": "25/01/2021",
+    "CustomerName": "jane Doe",
+    "DeliveryAddress": "Kolkata, WB, India",
+    "OrderTotal": 471.83
+}
+
+===================================================================
